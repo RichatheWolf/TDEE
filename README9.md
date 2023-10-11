@@ -1,0 +1,2 @@
+PMR: This code was a little more difficult; and I asked for some assistance in the more difficult aaspects of the array code.
+Initializing the variables was not difficult, but having them all interact accordingly took a little time to set up. 
